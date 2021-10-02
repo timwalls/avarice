@@ -1,0 +1,17 @@
+config-aux
+*.Po
+*.o
+src/autoconf.h
+src/autoconf.hin
+src/avarice
+Makefile
+Makefile.in
+Makefile.am
+configure
+autom4te.cache
+aclocal.m4
+avarice.spec
+scripts/ice-gdb
+config.status
+config.log
+src/stamp-h1
